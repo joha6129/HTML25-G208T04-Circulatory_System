@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Test Media</title>
+</head>
+<body style="font-family: Arial; background-color: #f9f9f9; color: #333;">
+
+    <h1>Prueba de Imágenes y Video</h1>
+
+    <h2>Imagen del robot</h2>
+    <img src="images/my_robot.jpg" alt="Mi robot" width="300" />
+
+    <h2>Imagen del código</h2>
+    <img src="images/my_robot2.jpg" alt="Código del robot" width="300" />
+
+    <h2>Video del robot en acción</h2>
+    <video width="320" controls>
+        <source src="videos/my_robot_video.mp4" type="video/mp4" />
+        Tu navegador no puede reproducir el video.
+    </video>
+
+</body>
+</html>
